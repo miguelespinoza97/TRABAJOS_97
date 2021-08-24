@@ -1,0 +1,17 @@
+to_records : recorta los tutilos
+notnull. reconce a los valores nulos con false
+gmaps.marker_layer : para trazar en el mapa
+gmaps.figure() : devuelve un objeto  a figura
+
+Usamos las etiquetas <dl>, <dt>, <dd>:
+
+<dl> se emplea para declarar la lista.
+<dt> se emplea para definir el término que definiremos.
+<dd> se emplea para expresar la definición de un término.
+
+df.to_dict('records')
+[{'col1': 1, 'col2': 0.5}, {'col1': 2, 'col2': 0.75}]
+self como primer parametro , para representar a un objetoo
+
+cambios n°1 
+cambio n°2 
